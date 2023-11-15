@@ -1,3 +1,8 @@
+## Employees Groups Management Program
+
+This program allows you to add or delete group of Employees. In group you can add employee, edit employee or delete empoyee. 
+Progrem doesn't have any database connections. It's short project made for university GUI Applications course.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
