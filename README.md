@@ -1,7 +1,7 @@
 ## Employees Groups Management Program
 
 This program allows you to add or delete group of Employees. In group you can add employee, edit employee or delete empoyee. 
-Progrem doesn't have any database connections. It's short project made for university GUI Applications course.
+Program doesn't have any database connections. It's short project made for university GUI Applications course.
 
 ## Getting Started
 
